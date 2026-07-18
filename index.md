@@ -1,6 +1,6 @@
 RoomDeco Privacy Policy
 
-Last updated: [DATE — e.g., July 18, 2026]
+Last updated: July 18, 2026
 
 RoomDeco ("we", "us", "the app") is a furniture discovery app that helps you browse products, visualize them in your room using augmented reality, and get AI-powered suggestions based on photos of your space. This policy explains what data we handle and how.
 
